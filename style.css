@@ -165,17 +165,11 @@ body,html{
  } 
 
 
-/* @media only screen and (max-width: 600px) {
+ @media only screen and (max-width: 600px) {
    .navbar ul{
       display: none;
    }
    .Menu i{
       margin-left: 785px;
-   }
-   .bac{
-      margin-left: 820px;
-   }
-   .image{
-      margin-left:726px ;
-   }
- } */
+   } 
+ }
