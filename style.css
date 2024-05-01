@@ -163,13 +163,16 @@ body,html{
    text-decoration: none;
    display: block;
  } 
-
-
- @media only screen and (max-width: 480px) {
+ @media only screen and (max-width: 600px) {
    .navbar ul{
       display: none;
    }
-   .Menu i{
-      margin-left: 830px;
    } 
+ @media only screen and (min-width: 600px) {
+    .Menu{
+       margin-left: 27px; 
+    }
+     .navbar ul{
+      margin-left:710px;
+   }
  }
