@@ -171,8 +171,13 @@ body,html{
  @media only screen and (min-width: 600px) {
     .Menu{
        margin-left: 27px; 
+       display: none;
     }
-     .navbar ul{
+     /* .navbar ul{
       margin-left:710px;
-   }
+   } */ 
+   .bac{
+      margin-top:-433px;
+      height:599px;
+   }  
  }
