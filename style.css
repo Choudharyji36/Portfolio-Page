@@ -173,9 +173,9 @@ body,html{
        margin-left: 27px; 
        display: none;
     }
-     /* .navbar ul{
-      margin-left:710px;
-   } */ 
+     .navbar ul{
+      margin-left:650px;
+   } 
    .bac{
       margin-top:-433px;
       height:599px;
