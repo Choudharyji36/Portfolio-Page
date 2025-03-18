@@ -4,18 +4,17 @@
 
 }
 
-body,html{
-        /* background-color:rgb(3, 118, 141);  */
-        /* width: 200px;
-        height:1000px; */
-
+body{
+       background-color:rgb(3, 118, 141);  
+       background-position: center;
+       background-size: cover;
     }
     
     #main{
-      background-color:rgb(3, 118, 141); 
-        width: 1365px;
-        background-position: center;
-        background-size: cover;
+/*       background-color:rgb(3, 118, 141); */
+        width: 1365px; 
+/*      background-position: center;
+        background-size: cover; */
         height: 602px
     }    
 
